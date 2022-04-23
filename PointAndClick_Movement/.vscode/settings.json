@@ -1,0 +1,14 @@
+{
+    "files.exclude": {
+        "**/.idea": true,
+        "**/.vscode": true,
+        "**/*.csproj": true,
+        "**/*.sln": true,
+        "**/Library": true,
+        "**/Logs": true,
+        "**/obj": true,
+        "**/ProjectSettings": true,
+        "**/Temp": true,
+        "**/UserSettings": true
+    }
+}
